@@ -2,6 +2,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Terminology)
 
+## 
+
+* Objective Function
+  * Fitness Function
+  * Loss Function
+
+## Abbreviations
+
 * CEM: Cross-Entropy Method
 * CI: Collective Intelligence
 * **CMA-ES**: Covariance Matrix Adaptation Evolution Strategy
