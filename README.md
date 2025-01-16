@@ -13,7 +13,7 @@ requests](https://tinyurl.com/3re5wyum).
 
 ## Contents (Still Actively Updated)
 
-* [Preface](https://tinyurl.com/sdrxcaj9)
+* [Preface](https://github.com/Evolutionary-Intelligence/EvolutionaryComputation-A-Modern-Perspective-ECAMP/blob/main/Preface.md)
 * [Terminology](https://tinyurl.com/yxjsxbt)
 * [Online Resources](https://tinyurl.com/h96jm5vf)
 * [Introduction to Evolutionary Computation (EC)](https://tinyurl.com/57se694t)
