@@ -11,10 +11,10 @@ principles** (e.g., natural selection) of biological evolution originated from [
 Wallace](https://tinyurl.com/yvwmuv9b) and [Charles Robert Darwin](https://tinyurl.com/5ywts76r).
 These principles, however, *can be* and *have been* employed to solve many (not all) **complex**
 computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design (e.g.,
-[artificial life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
-evolution](http://fhalab.caltech.edu/)) problems (*often* though *not always* with promising or
-satisfactory performance). In this entirely open book, we focus on **computational (rather
-biological) evolution** for modeling, optimization, learning, and design, from both the
+[artificial life](https://direct.mit.edu/artl)), modelling, and engineering (e.g., [directed
+evolution](http://fhalab.caltech.edu/)) problems (*often* though *not always* with practically
+promising or satisfactory performance). In this open book, we will focus on **computational
+(rather biological) evolution** for modeling, optimization, learning, and design from both the
 *historical* and *modern* perspective.
 
 Although initially (especially at the beginning stage) their so-called biological-evolution-based
