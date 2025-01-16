@@ -65,7 +65,5 @@ via e.g., [Issues](https://tinyurl.com/mr24n6ju) or
 * [Evolutionary Meta-Learning (EML)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Meta-Learning-(EML).md)
 * [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
 * [Search-Based Software Engineering]()
-* [Swarm Intelligence]()
-  * [Ant Colony Optimization](ACO)
-  * [Particle Swarm Optimization](PSO)
-  * [Swarm Robotics]()
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-README)
