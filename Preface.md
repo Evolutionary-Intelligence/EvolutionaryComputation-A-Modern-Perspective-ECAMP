@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Preface)
 
-As shown by [Frances H. Arnold](http://fhalab.caltech.edu/), Prof. of California Institute of
+As was shown by [Frances H. Arnold](http://fhalab.caltech.edu/), Prof. of California Institute of
 Technology, in her Nobel Lecture, "[Responsible for adaptation, optimization, and innovation in
 the living world, evolution executes a simple algorithm of diversification and natural selection,
 an algorithm that works at all levels of complexity from single protein molecules to whole
