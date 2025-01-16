@@ -6,10 +6,10 @@ As was shown by [Frances H. Arnold](http://fhalab.caltech.edu/), Prof. of Califo
 Technology, in her Nobel Lecture, "[Responsible for adaptation, optimization, and innovation in
 the living world, evolution executes a simple algorithm of diversification and natural selection,
 an algorithm that works at all levels of complexity from single protein molecules to whole
-ecosystems.](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of fundamental
-principles (e.g., natural selection) of biological evolution originated from e.g., [Alfred Russel
+ecosystems.](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of **fundamental
+principles** (e.g., natural selection) of biological evolution originated from [Alfred Russel
 Wallace](https://tinyurl.com/yvwmuv9b) and [Charles Robert Darwin](https://tinyurl.com/5ywts76r).
-These fundamental principles, however, *can be* and *have been* employed on **complex**
+These principles, however, *can be* and *have been* employed to solve many (not all) **complex**
 computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design (e.g.,
 [artificial life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
 evolution](http://fhalab.caltech.edu/)) problems (*often* though *not always* with promising or
