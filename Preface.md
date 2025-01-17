@@ -36,8 +36,9 @@ and the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our ma
 EC **is and should be** **general principles and techniques** of designing and analyzing EC
 (that is, *whether, when, why, and how to employ EC*) and also their **real-world
 applications**, rather than only their biological metaphors (though some metaphors played an
-interesting/important role in their early formation stage). In fact, these two key aspects
-(i.e., [theories]() and [practices]()) have been often asked to ourselves and our colleagues.
+interesting and important role in their early formation stage). In fact, these two key aspects
+(i.e., [theories](https://link.springer.com/book/10.1007/978-3-642-17339-4) and
+[practices]()) have been often asked to ourselves and our colleagues.
 
 Although we believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f)
 to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
