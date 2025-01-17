@@ -2,8 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
 
-This is an online book for **Evolutionary Computation (EC)**, currently written/edited by
-*Qiqi Duan* @HIT&SUSTech (Harbin, China), *Qi Zhao* @SUSTech (Shenzhen, China), *Qingquan
+This is an online book for **Evolutionary Computation (EC)**, currently written by *Qiqi
+Duan* @HIT&SUSTech (Harbin, China), *Qi Zhao* @SUSTech (Shenzhen, China), *Qingquan
 Zhang* @SUSTech (Shenzhen, China), and *Yuhui Shi* @SUSTech (Shenzhen, China). We started
 to write this **entirely open-access** book from July, 2023 and is planning to finish
 it's **First Edition** in December, 2027. Owing to its **entirely open** nature, any
