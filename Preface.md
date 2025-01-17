@@ -27,12 +27,12 @@ interest, play cornerstone roles in the growing maturity of the [Evolutionary
 Computation/Computing (EC)](https://tinyurl.com/48r89bv2) field, including but not limited to
 **Evolutionary Algorithms** ([EAs]()).
 
-Our modest goal for this open book is to provide basic information regarding to EC and some
-(*not all*) advanced EC topics, in order to help *perplexed* novices foster the desirable ability
-of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research practice on EC,
-which we think is very crucial for *perplexed* novices in the [explosion of metaphor-centred
-methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and the rise of
-[Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
+Our modest goal for this open book is to provide modern information regarding to EC and some
+(*not all*) advanced EC topics, in order to help *perplexed* novices foster the desirable
+ability of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research
+practice on EC, which we think is very crucial for *perplexed* novices in the [explosion of
+metaphor-centred methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf)
+and the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
 **general principles** of designing and analyzing EAs (that is, *whether, when, why, and how to
 use EC*) and their **real-world applications**, rather than only their biological metaphors
 (though some metaphors played an interesting/important role in their early formation stage).
