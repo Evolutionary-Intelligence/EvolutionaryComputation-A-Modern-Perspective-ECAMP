@@ -17,9 +17,9 @@ promising or satisfactory performance. In this open book, we will focus on **com
 (rather biological) evolution** for modeling, optimization, learning, and design from both the
 *historical* and *modern* perspective.
 
-Although initially (especially at the beginning stage) their so-called biological-evolution-based
-inspirations (in the form of [metaphors](https://tinyurl.com/mtmwez9h)) are an attractive and
-interesting point to many readers, researchers, and practitioners, undoubtedly their **solid
+Although initially (especially at the beginning stage) their so-called **biological evolution-based
+inspirations** (in the form of [metaphors](https://tinyurl.com/mtmwez9h)) are an *attractive and
+interesting* point to many readers, researchers, and practitioners, undoubtedly their **solid
 mathematical foundations, flexbile algorithmic frameworks, some available softwares, and various
 real-world successes (practical usefulness)**, which are of our great interest in this book, play
 cornerstone roles in the increasing maturity of the [Evolutionary Computation/Computing
