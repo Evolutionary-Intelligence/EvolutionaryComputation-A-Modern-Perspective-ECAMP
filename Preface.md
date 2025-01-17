@@ -21,11 +21,11 @@ Although initially (especially at the beginning stage) so-called **biological ev
 [inspirations](https://www.nature.com/articles/s42256-020-00278-8) (in the form of
 [metaphors](https://tinyurl.com/mtmwez9h)) are an *attractive and interesting* point to many
 readers, researchers, and practitioners, undoubtedly its **increasingly solid mathematical
-foundations, very flexbile algorithmic frameworks, widely available software, and various
-application successes (i.e., practical usefulness)**, which are of our great interest, play
-cornerstone roles in the growing maturity of the [Evolutionary Computation/Computing
-(EC)](https://tinyurl.com/48r89bv2) field, including but not limited to **Evolutionary
-Algorithms** ([EAs]()).
+foundations, very flexbile algorithmic frameworks, widely available implementation software,
+and various application successes (i.e., practical usefulness)**, which are of our great
+interest, play cornerstone roles in the growing maturity of the [Evolutionary
+Computation/Computing (EC)](https://tinyurl.com/48r89bv2) field, including but not limited to
+**Evolutionary Algorithms** ([EAs]()).
 
 Our modest goal for this open book is to provide basic information regarding to EC and some
 (*not all*) advanced EC topics, in order to help *perplexed* novices foster the desirable ability
