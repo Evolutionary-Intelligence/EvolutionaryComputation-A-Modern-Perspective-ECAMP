@@ -32,10 +32,13 @@ Our modest goal for this open book is to provide modern information regarding to
 ability of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research
 practice on EC, which we think is very crucial for *perplexed* novices in the [explosion of
 metaphor-centred methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf)
-and the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
-**general principles** of designing and analyzing EAs (that is, *whether, when, why, and how to
-use EC*) and their **real-world applications**, rather than only their biological metaphors
-(though some metaphors played an interesting/important role in their early formation stage).
+and the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on
+EC **is and should be** **general principles and techniques** of designing and analyzing EC
+(that is, *whether, when, why, and how to employ EC*) and also their **real-world
+applications**, rather than only their biological metaphors (though some metaphors played an
+interesting/important role in their early formation stage). In fact, these two key aspects
+(i.e., [theories]() and [practices]()) have been often asked to ourselves and our colleagues.
+
 Although we believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f)
 to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
 its **fundamentally** algorithmic structures have been fixed/unchanged over the past 20 years,
