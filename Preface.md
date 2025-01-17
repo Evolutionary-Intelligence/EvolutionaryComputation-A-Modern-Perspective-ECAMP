@@ -18,13 +18,13 @@ promising or satisfactory performance. In this open book, we will focus on **com
 *historical* and *modern* perspective.
 
 Although initially (especially at the beginning stage) their so-called biological-evolution-based
-inspirations (in the form of [metaphors](https://tinyurl.com/mtmwez9h)) are an attractive /
-interesting point to readers, researchers, and practitioners, undoubtedly their **mathematical
-foundations (theoretical insights), algorithmic frameworks (implementation softwares), and
-practical usefulness (real-world successes)**, which are of our great interest in this open book,
-play three cornerstone roles in the increasing maturity of the [Evolutionary Computing
+inspirations (in the form of [metaphors](https://tinyurl.com/mtmwez9h)) are an attractive and
+interesting point to many readers, researchers, and practitioners, undoubtedly their **solid
+mathematical foundations, flexbile algorithmic frameworks, some available softwares, and various
+real-world successes (practical usefulness)**, which are of our great interest in this book, play
+cornerstone roles in the increasing maturity of the [Evolutionary Computation/Computing
 (EC)](https://tinyurl.com/48r89bv2) field, including but not limited to Evolutionary Algorithms
-(EAs).
+([EAs]()).
 
 Our modest goal for this open book is to provide basic information regarding to EC and some
 (*not all*) advanced EC topics, in order to help *perplexed* novices foster the desirable ability
