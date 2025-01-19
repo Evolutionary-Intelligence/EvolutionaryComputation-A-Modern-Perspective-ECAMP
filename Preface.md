@@ -40,7 +40,7 @@ interesting and important role in their early formation stage). In fact, these t
 (i.e., [theories](https://link.springer.com/book/10.1007/978-3-642-17339-4) and
 [practices]()) have been often asked to ourselves and our colleagues. In this sense, we argue
 that this open book is one (not necessarily perfect yet worthwhile to explore) answer to these
-often-asked questions (*whether, when, why, and how to employ and study EC*).
+often-asked questions (in short, *whether, when, why, and how to use and study EC*).
 
 Although we believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f)
 to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz) and Meta-Evolution)
