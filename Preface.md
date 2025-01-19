@@ -43,21 +43,24 @@ that this open book is one (not necessarily perfect yet worthwhile to explore) a
 often-asked questions (*whether, when, why, and how to employ and study EC*).
 
 Although we believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f)
-to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
-its **fundamentally** algorithmic structures have been fixed/unchanged over the past 20 years,
-to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical
-and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070)
-no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
-EA versions, variants, extensions, and improvements for different kinds of **hard** problems
-(such as, [FunSearch](https://www.nature.com/articles/s41586-023-06924-6),
+to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz) and Meta-Evolution)
+significantly, most of its **fundamentally** algorithmic structures have been fixed and
+unchanged over the past 20 years, to some extents. Therefore, we first adopt a *historical*
+perspective to summarize classical EC work as the basis of the **modern** perspective,
+following the suggestion (i.e., a unified approach) from e.g., De Jong. For effectiveness
+and efficiency, ["leveraging (or learning) the statistical and computational structure of
+problem"](https://www.nowpublishers.com/article/Details/MAL-070) no matter *explicitly* or
+*implicitly* is now one of main research goals when desiging different EA versions, variants,
+extensions, and improvements for different kinds of **hard** problems (such as,
+[FunSearch](https://www.nature.com/articles/s41586-023-06924-6),
 [Persistent ES](https://icml.cc/virtual/2021/poster/10175),
 [OpenAI-ES](https://openai.com/index/evolution-strategies/),
 [Population-Based Training (PBT)](https://tinyurl.com/428mrb4f),
 [Surrogate Models](),
 [NES](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf),
 [CMA-ES](https://jmlr.org/papers/volume18/14-467/14-467.pdf),
-[EDA](https://jmlr.org/papers/volume24/22-0628/22-0628.pdf),
-just to name a few).
+[EDA/CEM](https://jmlr.org/papers/volume24/22-0628/22-0628.pdf),
+to name a few).
 
 First, an important-yet-difficult research question to be answered is the underlying assumptions
 behind [EAs](https://www.nature.com/articles/nature14544). Since the **black-box** (or more
