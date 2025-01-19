@@ -75,18 +75,12 @@ Up to now, there have been several *wonderful* books devoted to EC, such as [[Ei
 
 With the renaissance of [neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) (now also called [deep learning](https://www.nature.com/articles/nature14539)) for AI/ML, the interesting interactions between **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf), [[Maynard Smith, 1987, Nature]](https://www.cs.toronto.edu/~hinton/absps/maynardsmith.pdf)) are worthwhile to be further investigated. [in its infancy](https://link.springer.com/article/10.1023/A:1008973931182)
 
-Finally, we thank very much for Prof. Shi and Prof. Yao which have provided
-our Ph.D. and/or research opportunities to study AI/ML and in particular EC.
-We also acknowledge all the authors () and reviewers () from each relatively
-independent chapters.
-
 ************** *** **************
-Written/Edited by Qiqi Duan (@HIT&SUSTech, Shenzhen, China),
+Written by
+Qiqi Duan (@HIT&SUSTech, Shenzhen, China),
 Qi Zhao (@SUSTech, Shenzhen, China),
-Yijun Yang (@Tencent AI Lab, Shenzhen, China), and
+Qingquan Zhang (@SUSTech, Shenzhen, China), and
 Yuhui Shi (@SUSTech, Shenzhen, China).
-
-From 2023 to 2027.
 ************** *** **************
 
 ## Some Well-Written Books Which Have Inspired this Open Book
