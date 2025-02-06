@@ -7,7 +7,7 @@ Technology, in her Nobel Lecture, "[Responsible for adaptation, optimization, an
 the living world, evolution executes a simple algorithm of diversification and natural selection,
 an algorithm that works at all levels of complexity from single protein molecules to whole
 ecosystems.](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of **fundamental
-principles** (e.g., natural selection) of biological evolution originated from [Alfred Russel
+principles** (e.g., natural selection) in biological evolution originated from e.g., [Alfred Russel
 Wallace](https://tinyurl.com/yvwmuv9b) and [Charles Robert Darwin](https://tinyurl.com/5ywts76r).
 These principles, however, *can be* and *have been* employed to solve many (not all) **complex**
 computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design (e.g.,
