@@ -7,8 +7,8 @@ Duan* @HIT&SUSTech (Harbin / Shenzhen, China), *Qi Zhao* @SUSTech (China), *Qing
 Zhang* @SUSTech (China), and *Yuhui Shi* @SUSTech (China). We started to write this
 **entirely open-access** book from July, 2023 and is planning to finish it's **First
 Edition** in December, 2027. Owing to its **entirely open** nature, any suggestions,
-improvements, corrections, and even kindly criticisms to it are **highly welcomed and
-encouraged** via e.g., [Issues](https://tinyurl.com/mr24n6ju) or [Pull
+improvements, corrections, and **even kindly criticisms** to it are **highly welcomed
+and encouraged** via e.g., [Issues](https://tinyurl.com/mr24n6ju) or [Pull
 requests](https://tinyurl.com/3re5wyum).
 
 ## Contents (Still Actively Updated)
