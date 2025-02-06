@@ -14,8 +14,8 @@ computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), d
 [artificial life](https://direct.mit.edu/artl)), modelling, and engineering (e.g., [directed
 evolution](http://fhalab.caltech.edu/)) problems, *often* (though *not always*) with practically
 promising or satisfactory performance. In this open book, we will focus on **computational
-(rather biological) evolution** for modeling, optimization, learning, and design from both the
-*historical* and *modern* perspective.
+(rather biological) evolution** for modeling, optimization, learning, and design from a *modern*
+perspective.
 
 Although initially (especially at the beginning stage) so-called **biological evolution-based**
 [inspirations](https://www.nature.com/articles/s42256-020-00278-8) (in the form of
