@@ -5,7 +5,7 @@
 This is an online book for **Evolutionary Computation (EC)**, currently written by *Qiqi
 Duan* @HIT&SUSTech (Harbin / Shenzhen, China), *Qi Zhao* @SUSTech (China), *Qingquan
 Zhang* @SUSTech (China), and *Yuhui Shi* @SUSTech (China). We started to write this
-**entirely open-access** book from July 11, 2023 and is planning to finish it's **First
+**entirely open-access** book from July 11, 2023 and is planning to finish its **First
 Edition** in December, 2027. Owing to its **entirely open** nature, any suggestions,
 improvements, corrections, and **even kindly criticisms** to it are **highly welcomed
 and encouraged** via e.g., [Issues](https://tinyurl.com/mr24n6ju) or [Pull
