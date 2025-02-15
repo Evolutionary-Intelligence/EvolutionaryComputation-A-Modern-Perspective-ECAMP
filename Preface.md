@@ -9,13 +9,13 @@ an algorithm that works at all levels of complexity from single protein molecule
 ecosystems.](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of **fundamental
 principles** (e.g., natural selection) in biological evolution originated from e.g., [Alfred Russel
 Wallace](https://tinyurl.com/yvwmuv9b) and [Charles Robert Darwin](https://tinyurl.com/5ywts76r).
-These principles, however, *can be* and *have been* employed to solve many (not all) **complex**
-computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design (e.g.,
-[artificial life](https://direct.mit.edu/artl)), modelling, and engineering (e.g., [directed
+These principles, interestingly, *can be* and *have been* employed to solve many (not all)
+**complex** computational (e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design
+(e.g., [artificial life](https://direct.mit.edu/artl)), modelling, and engineering (e.g., [directed
 evolution](http://fhalab.caltech.edu/)) problems, *often* (though *not always*) with practically
 promising or satisfactory performance. In this open book, we will focus on **computational
 (rather biological) evolution** for modeling, optimization, learning, and design from a *modern*
-(*probabilistic*) perspective.
+(i.e., **probabilistic**) perspective.
 
 Although initially (especially at the beginning stage) so-called **biological evolution-based**
 [inspirations](https://www.nature.com/articles/s42256-020-00278-8) (in the form of
