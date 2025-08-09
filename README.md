@@ -1,4 +1,4 @@
-# Evolutionary Computation: A Modern Perspective [A Free Book (ECAMP)]
+# Evolutionary Computation (EC): A Modern Perspective (AMP) [An Online Book (ECAMP)]
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
 
